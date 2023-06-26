@@ -2,7 +2,7 @@
 
 int main(){
 
-    std::cout << "Hello Wooooooooooorld!" << std::endl;
+    std::cout << "отправка с помощью VS!" << std::endl;
 
     return 0;
 }
